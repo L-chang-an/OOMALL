@@ -1,0 +1,10 @@
+INSERT INTO `goods_activity` VALUES (1, 8, '团购活动1', 'grouponActDao', 1, 'admin', NULL, NULL, '2021-11-11 12:20:38', NULL, '56064886ade2f21f36b03134');
+INSERT INTO `goods_activity` VALUES (2, 4, '团购活动2', 'grouponActDao', 1, 'admin', NULL, NULL, '2021-11-12 12:20:38', NULL, '56064886ade2f21f36b03133');
+INSERT INTO `goods_activity` VALUES (3, 4, '团购活动3', 'grouponActDao', 1, 'admin', NULL, NULL, '2021-11-12 12:20:38', NULL, '56064886ade2f21f36b03134');
+INSERT INTO `goods_activity` VALUES (4, 1, '团购活动4', 'grouponActDao', 1, 'admin', NULL, NULL, '2021-11-12 12:20:38', NULL, '56064886ade2f21f36b03134');
+INSERT INTO `goods_activity` VALUES (5, 4, '团购活动5', 'grouponActDao', 1, 'admin', NULL, NULL, '2022-12-7 16:58:27', NULL, '56064886ade2f21f36b03134');
+INSERT INTO `goods_activity` VALUES (6, 4, '分享活动', 'shareActDao', 1, 'admin', NULL, NULL, '2022-12-8 22:53:59', NULL, '56064886ade2f21f36b03134');
+INSERT INTO `goods_activity` VALUES (21, 1, '预售活动-测试1', 'advanceSaleActDao', 1, 'admin', NULL, NULL, '2022-12-02 21:58:31', NULL, '638a0487d2c2df58bad25586');
+INSERT INTO `goods_activity` VALUES (22, 1, '预售活动-测试2', 'advanceSaleActDao', 1, 'admin', NULL, NULL, '2022-12-02 22:00:41', NULL, '638a0508a5ffc16807c3dd20');
+INSERT INTO `goods_activity` VALUES (23, 1, '预售活动-测试3', 'advanceSaleActDao', 1, 'admin', NULL, NULL, '2022-12-02 22:04:30', NULL, '638a05ee19c2591448302d11');
+INSERT INTO `goods_activity` VALUES (24, 1, '预售活动-测试4', 'advanceSaleActDao', 1, 'admin', NULL, NULL, '2022-12-02 22:05:03', NULL, '638a060e7a20bf17d9d51256');

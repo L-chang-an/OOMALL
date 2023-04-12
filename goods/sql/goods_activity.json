@@ -1,0 +1,36 @@
+[
+  {
+    "_id": "56064886ade2f21f36b03134",
+    "_class": "cn.edu.xmu.oomall.goods.mapper.po.GrouponActPo",
+    "thresholds": "[{quantity=13, percentage=135}]"
+  },
+  {
+    "_id": "56064886ade2f21f36b03133",
+    "_class": "cn.edu.xmu.oomall.goods.mapper.po.GrouponActPo",
+    "thresholds": "[{quantity=13, percentage=13}, {quantity=11, percentage=77}]"
+  },
+  {
+    "_id": "638a0487d2c2df58bad25586",
+    "payTime": "2021-11-21T19:34:50.630",
+    "deposit": 1000,
+    "_class": "cn.edu.xmu.oomall.goods.mapper.po.AdvanceSaleActPo"
+  },
+  {
+    "_id": "638a0508a5ffc16807c3dd20",
+    "payTime": "2021-12-30T19:34:50.630",
+    "deposit": 300,
+    "_class": "cn.edu.xmu.oomall.goods.mapper.po.AdvanceSaleActPo"
+  },
+  {
+    "_id": "638a05ee19c2591448302d11",
+    "payTime": "2021-11-21T19:34:50.630",
+    "deposit": 300,
+    "_class": "cn.edu.xmu.oomall.goods.mapper.po.AdvanceSaleActPo"
+  },
+  {
+    "_id": "638a060e7a20bf17d9d51256",
+    "payTime": "2021-12-30T19:34:50.630",
+    "deposit": 400,
+    "_class": "cn.edu.xmu.oomall.goods.mapper.po.AdvanceSaleActPo"
+  }
+]
